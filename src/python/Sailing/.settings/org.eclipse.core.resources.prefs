@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//guang/libs/actions.py=utf8
+encoding//guang_taobao/libs/actions.py=utf8
+encoding//libs/selenium/selenium.py=utf-8
+encoding//shop_taoke/libs/actions.py=utf8
+encoding//simple_crawler/crawler.py=gbk
+encoding//simple_crawler/http_client.py=gbk
+encoding//sina_empower/libs/actions.py=utf8
+encoding//src/sailing/core/row_task.py=utf8
+encoding//src/sailing/spider/__init__.py=utf-8
+encoding//src/sailing/spider/http_client.py=utf-8
+encoding//src/sailing/webrobot/__init__.py=utf-8
+encoding//src/sailing/webrobot/captcha/http_client.py=utf-8
+encoding//taobao_fans/libs/actions.py=utf8
+encoding//taobao_quan/libs/actions.py=utf8
+encoding//taobao_sales/libs/actions.py=utf8
+encoding//webqq/libs/actions.py=utf8

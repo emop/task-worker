@@ -1,0 +1,32 @@
+[0.494][INFO]: received WebDriver request: POST /session {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chromeOptions": {
+         "args": [ "--incognito" ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "version": ""
+   },
+   "sessionId": null
+}
+[0.496][INFO]: sending WebDriver response: 200 {
+   "sessionId": "",
+   "status": 13,
+   "value": {
+      "message": "unknown error: cannot find Chrome binary\n  (Driver info: chromedriver=2.1,platform=Windows NT 6.1 SP1 x86_64)"
+   }
+}
+[0.500][INFO]: received WebDriver request: DELETE /session/None 
+[0.500][INFO]: sending WebDriver response: 200 {
+   "sessionId": "None",
+   "status": 0,
+   "value": null
+}
+[0.503][INFO]: received WebDriver request: GET /shutdown 
+[0.503][INFO]: sending WebDriver response: 200 {
+   "sessionId": "",
+   "status": 0,
+   "value": null
+}
